@@ -3,7 +3,7 @@
     "dropzone-amd-module": "dropzone"
   },
   "dropzone": [
-    "dist/dropzone.css",
-    "dist/dropzone-amd-module.js"
+    "./dist/dropzone.css",
+    "./dist/dropzone-amd-module.js"
   ]
 }
