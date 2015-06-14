@@ -1,6 +1,7 @@
 {
   "renames": {
-    "dropzone-amd-module": "dropzone"
+    "dropzone-amd-module": "dropzone",
+    "dropzone.min": "dropzone"
   },
   "dropzone": [
     "./dist/dropzone.css",
