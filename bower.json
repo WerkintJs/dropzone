@@ -6,6 +6,6 @@
   ],
   "ignore": [],
   "dependencies": {
-    "dropzone": "~4.0.1"
+    "dropzone": "4.0.1"
   }
 }
